@@ -1,5 +1,4 @@
-# Tony_G_Portfolio
-Tony Gutierrez's Data Analytics Portfolio
+# Tony Gutierrez's Data Analytics and Coding Projects Portfolio
 
 ## [Project 1: Cyclistic Bike Share Study Case: Project Overview](https://github.com/eangutierrez/Cyclistic_Bike_Share)
 * Created a MySQL script to upload and pre-process the data, as well as build several pivot tables to help leadership better understand customer segments.
