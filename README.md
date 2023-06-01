@@ -5,7 +5,7 @@
 * Created an R programming language script to upload and pre-process the data, build several pivot tables, and create visualizations to better present data to leadership.
 * Created a [Tableau Storyboard](https://public.tableau.com/app/profile/tony.gutierrez/viz/CyclisticBikeShare_16843493078500/Story1) to present findings to leadership, including several recommendations.
 * Wrote a series of [Medium articles](https://medium.com/@tonygutierrez_60520/cyclistic-bike-share-business-case-introduction-f3efb2294687) to futher explain each stage of the data analysis process.
-![](https://github.com/eangutierrez/TonyG_Portfolio/blob/main/images/r_table_5.png)
+![](/images/r_table_5.png)
 
 # Skills Appendix
 ## [Python Crash Course Practice Problems & Coding Projects](https://github.com/eangutierrez/Python_Crash_Course_Exercises)
@@ -18,4 +18,4 @@
 * Set up a database and SQL editor to interact with the database, upload the schema, and dump tables.
 * Practiced several intermediate and advanced SQL skills, including querying multiple tables, conditional logic, views, common table expressions, and analytic functions.
 
-![](https://github.com/eangutierrez/TonyG_Portfolio/blob/main/images/sql_table_12.PNG)
+![](/images/sql_table_12.PNG)
