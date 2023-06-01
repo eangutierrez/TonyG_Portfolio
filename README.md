@@ -6,7 +6,6 @@
 * Created a [Tableau Storyboard](https://public.tableau.com/app/profile/tony.gutierrez/viz/CyclisticBikeShare_16843493078500/Story1) to present findings to leadership, including several recommendations.
 * Wrote a series of [Medium articles](https://medium.com/@tonygutierrez_60520/cyclistic-bike-share-business-case-introduction-f3efb2294687) to futher explain teach stage of the data analysis process.
 ![](https://github.com/eangutierrez/TonyG_Portfolio/blob/main/images/r_table_5.png)
-![](https://github.com/eangutierrez/Cyclistic_Bike_Share/assets/92600212/01debb1e-69cc-4efa-844c-3189b6d9bb25](https://github.com/eangutierrez/TonyG_Portfolio/blob/main/images/r_table_5.png)
 
 # Skills Appendix
 ## [Python Crash Course Practice Problems & Coding Projects](https://github.com/eangutierrez/Python_Crash_Course_Exercises)
